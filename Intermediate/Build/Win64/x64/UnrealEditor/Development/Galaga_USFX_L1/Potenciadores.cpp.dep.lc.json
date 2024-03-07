@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marco\\documents\\3er semestre\\programacion avanzada\\spaceinvaders\\galaga_usfx_l1\\source\\galaga_usfx_l1\\potenciadores.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marco\\documents\\3er semestre\\programacion avanzada\\spaceinvaders\\galaga_usfx_l1\\intermediate\\build\\win64\\x64\\galaga_usfx_l1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\marco\\documents\\3er semestre\\programacion avanzada\\spaceinvaders\\galaga_usfx_l1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\galaga_usfx_l1\\definitions.galaga_usfx_l1.h",
+            "c:\\users\\marco\\documents\\3er semestre\\programacion avanzada\\spaceinvaders\\galaga_usfx_l1\\source\\galaga_usfx_l1\\potenciadores.h",
+            "c:\\users\\marco\\documents\\3er semestre\\programacion avanzada\\spaceinvaders\\galaga_usfx_l1\\intermediate\\build\\win64\\unrealeditor\\inc\\galaga_usfx_l1\\uht\\potenciadores.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

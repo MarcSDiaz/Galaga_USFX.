@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Galaga_USFX_L1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaga_USFX_L1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Galaga_USFX_L1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Galaga_USFX_L1">
+      <UniqueIdentifier>{B3A556D5-82A3-3133-82F4-E81D5F013C16}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\Escudo.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\Escudo.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1.Build.cs">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1Character.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1Character.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1GameMode.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1GameMode.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1PlayerController.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\Galaga_USFX_L1PlayerController.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\NaveAliada.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\NaveAliada.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\NaveEnemiga.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\NaveEnemiga.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\Potenciadores.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\Potenciadores.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_L1\Proyectil.cpp">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_L1\Proyectil.h">
+      <Filter>Source\Galaga_USFX_L1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

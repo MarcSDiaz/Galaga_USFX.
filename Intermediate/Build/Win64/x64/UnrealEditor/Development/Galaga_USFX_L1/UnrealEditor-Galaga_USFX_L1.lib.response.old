@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Galaga_USFX_L1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\Galaga_USFX_L1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Ecudo.gen.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Galaga_USFX_L1.init.gen.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Galaga_USFX_L1Character.gen.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Galaga_USFX_L1GameMode.gen.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Galaga_USFX_L1PlayerController.gen.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\NaveAliada.gen.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\NaveEnemiga.gen.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Proyectil.gen.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Ecudo.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Galaga_USFX_L1.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Galaga_USFX_L1Character.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Galaga_USFX_L1GameMode.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Galaga_USFX_L1PlayerController.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\NaveAliada.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\NaveEnemiga.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Proyectil.cpp.obj"
+"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\Default.rc2.res"
+/OUT:"C:\Users\marco\Documents\3er Semestre\Programacion Avanzada\SpaceInvaders\Galaga_USFX_L1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Galaga_USFX_L1\UnrealEditor-Galaga_USFX_L1.lib"
